@@ -65,33 +65,33 @@ class _MyHomePage1State extends State<MyHomePage1> {
   }
 }
 
-// class MyHomePage extends StatefulWidget {
-//   MyHomePage({super.key});
+class MyHomePage extends StatefulWidget {
+  const MyHomePage({super.key});
 
-//   @override
-//   State<MyHomePage> createState() => _MyHomePageState();
-// }
+  @override
+  State<MyHomePage> createState() => _MyHomePageState();
+}
 
-// class _MyHomePageState extends State<MyHomePage> {
-//   int count = 0;
+class _MyHomePageState extends State<MyHomePage> {
+  int count = 0;
 
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       body: Center(
-//         child: Text('$count'),
-//       ),
-//       floatingActionButton: FloatingActionButton(
-//         onPressed: () {
-//           count++;
-//           setState(() {});
-//           print(count);
-//         },
-//         child: const Icon(Icons.add),
-//       ),
-//     );
-//   }
-// }
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: Text('$count'),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          count++;
+          setState(() {});
+          print(count);
+        },
+        child: const Icon(Icons.add),
+      ),
+    );
+  }
+}
 
 
 
