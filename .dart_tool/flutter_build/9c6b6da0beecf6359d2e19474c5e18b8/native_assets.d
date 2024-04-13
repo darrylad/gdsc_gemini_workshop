@@ -1,0 +1,1 @@
+ /Users/darrylad/Darryl/MyProjects/FlutterDev/GDSC\ app\ gemini\ workshop/gdsc_gemini_workshop/.dart_tool/flutter_build/9c6b6da0beecf6359d2e19474c5e18b8/native_assets.yaml: 
