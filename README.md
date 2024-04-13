@@ -1,6 +1,6 @@
 # gdsc_gemini_workshop
 
-A new Flutter project.
+This repo contains the topics and projects discussed in the gemini workshop series, app dev domain, on the 5th of April, 2024. Switch to source branch for presentation.
 
 ## Getting Started
 
